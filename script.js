@@ -5,7 +5,7 @@ $(document).ready(function(){
   
 
   if (likesSugaryFoods == "yes" && likesSaltyFoods == "yes") {
-    alert("Have a delicious chocolate covered peanut butter-filled pretzel!");
+    alert("Have a delicious chocolate covered peanut butter filled pretzel!");
   } else if (likesSugaryFoods == "no" && likesSaltyFoods == "no") {
     alert("I'm not sure what kind of food to give you!?");
   } 
