@@ -5,7 +5,6 @@
 |         ==         | equals          |
 |         !=         | does not equal  |
 |         &&         | and             |
-|         ||         | or              |
 
 
 ## Example
