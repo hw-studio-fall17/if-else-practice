@@ -8,8 +8,9 @@
 
 
 ## Example
-` var likesSaltyFoods = prompt("Do you like salty foods?") `
-` var likeSugaryFoods = prompt("Do you like sugary foods?") `
+``` var likesSaltyFoods = prompt("Do you like salty foods?") ```
+
+``` var likesSugaryFoods = prompt("Do you like sugary foods?") ```
 
 ``` JavaScript
 if (likesSugaryFoods == "yes" && likesSaltyFoods == "yes") {
